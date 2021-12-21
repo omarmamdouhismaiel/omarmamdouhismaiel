@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omarmamdouhismaiel
+- 👋 Hi, I’m @omarmamdouhismaiel (omarmamdouhismaielabdou@gmail.com)
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data-Science projects
