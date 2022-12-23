@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @omarmamdouhismaiel (omarmamdouhismaielabdou@gmail.com)
-- 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data-Science projects
-- 📫 How to reach me, on linked-In: https://www.linkedin.com/in/omar-mamdouh-ismaiel/
-
 <!---
 omarmamdouhismaiel/omarmamdouhismaiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -16,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarmamdouhismaiel" alt="omarmamdouhismaiel" /></a> </p>
 
 - 🌱 I’m currently learning **economics & finance domain knowledge, and applying in End-to-End Data Science Projects.**
+
+- 💞️ I’m looking to collaborate on Data-Science projects
 
 - 📫 How to reach me **omarmamdouh.ai@gmail.com**
 
