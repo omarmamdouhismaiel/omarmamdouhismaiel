@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarmamdouhismaiel" alt="omarmamdouhismaiel" /></a> </p>
 
-- 🌱 I’m currently building **data science knowledge, and applying in End-to-End Data Science Projects.**
+- 🌱 I’m well served in **SQL, Python, Power BI, and Tableau**. 
 
 - 💞️ I’m looking to collaborate on Data-Science projects
 
