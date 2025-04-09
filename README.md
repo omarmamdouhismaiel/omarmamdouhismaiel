@@ -5,11 +5,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Omar Mamdouh</h1>
-<h3 align="center">A passionate machine learning & data scientist from Egypt</h3>
+<h3 align="center">A passionate data scientist/analyst from Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarmamdouhismaiel" alt="omarmamdouhismaiel" /></a> </p>
 
-- 🌱 I’m currently learning **economics & finance domain knowledge, and applying in End-to-End Data Science Projects.**
+- 🌱 I’m currently building **data science knowledge, and applying in End-to-End Data Science Projects.**
 
 - 💞️ I’m looking to collaborate on Data-Science projects
 
