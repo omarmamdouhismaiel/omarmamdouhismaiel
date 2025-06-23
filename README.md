@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Omar Mamdouh</h1>
-<h3 align="center">A passionate Data Scientist/Analyst from Egypt</h3>
+<h3 align="center">A passionate AI/ML Engineer from Egypt</h3>
 
 - 🌱 I’m well served in **SQL, Python, Power BI, and Tableau**. 
 
